@@ -1,0 +1,4 @@
+*.zip
+*.bk
+*.backup
+.terraform
